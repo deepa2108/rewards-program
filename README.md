@@ -4,9 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you need to run api and ui:
-
-### `npm run start-api`
+In the project directory, you need to run below command:
 
 ### `npm  run start-ui`
 
